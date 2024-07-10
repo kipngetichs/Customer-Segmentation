@@ -1,1 +1,10 @@
-# Customer-Segmentation
+# New Retail Customer Segmentation Dashboard
+# Situation
+The New Retail Customer Segmentation Dashboard  project involves analyzing a dataset that was collected from kaggle website containing customer transactions to gain insights into customer behavior and preferences. The dataset includes various attributes such as transaction details, customer demographics, purchase patterns, product information, and feedback. The goal is to segment customers effectively and create a comprehensive dashboard in Power BI that visually represents these segments and key metrics, enabling data-driven decision-making for improving marketing strategies, customer engagement, and overall business performance.
+# Task
+As the Marketing data analyst on this project, I was responsible for designing and implementing a dashboard that would allow users to explore key metrics related to the customer segmentation. I worked personally by putting more effort to this project  to identify the most relevant data sources and key metrics to track and analyse this data. I then used PowerBi, one of the most popular and powerful data visualization tools, to create an interactive dashboard that would allow users to explore the data and gain insights.
+# Action
+The action plan for the  project involves several key steps. First, clean and preprocess the dataset to handle any missing ,duplicates or inconsistent data. Next, perform exploratory data analysis (EDA) to understand the data distribution and identify significant patterns. Use statistical techniques and clustering algorithms to segment customers based on various attributes such as demographics, purchase behavior, and feedback. Then, design and develop a dynamic dashboard in Power BI, incorporating visualizations like charts, graphs, and maps to represent customer segments and key metrics effectively. Finally, validate the dashboard  and refine it to ensure it meets business needs and supports strategic decision-making.The preview of the dashboard is available below.
+
+
+
